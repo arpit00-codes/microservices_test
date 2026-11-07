@@ -20,3 +20,5 @@ coverage.html
 coverage.out
 coverage_filtered.out
 
+
+.env.local
